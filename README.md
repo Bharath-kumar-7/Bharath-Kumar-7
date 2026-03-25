@@ -92,8 +92,8 @@ class BharathKumar:
 
 - 🎯 **JEE Main 2024** — AIR 52,867 among 1.3M+ candidates
 - 📜 **IBM RAG and Agentic AI** — Professional Certificate
-- 📜 **The Nuts and Bolts of Machine Learning** — Certificate
 - 📜 **Deep Learning & Neural Networks with Keras** — Certificate
+- 📜 **The Nuts and Bolts of Machine Learning** — Certificate
 
 ---
 
