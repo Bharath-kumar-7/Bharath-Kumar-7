@@ -4,7 +4,7 @@
 
 # Badagala Bharath Kumar
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Full+Stack+Developer+(MERN);RAG+%26+Agentic+AI+Builder;Deep+Learning+Enthusiast;B.Tech+CSE+%40+IIIT+Kottayam" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;MERN+Stack+Developer;RAG+%26+Agentic+AI+Builder;Deep+Learning+Enthusiast;B.Tech+CSE+%40+IIIT+Kottayam" alt="Typing SVG" /></a>
 
 <br/>
 
