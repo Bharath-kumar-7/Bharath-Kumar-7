@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharath--badagala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharath-badagala)
 [![GitHub](https://img.shields.io/badge/GitHub-Bharath--kumar--7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharath-kumar-7)
-[![Gmail](https://img.shields.io/badge/Gmail-badagalabharath123-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badagalabharath123@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-badagalabharath123-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badagalakumar24bcs0160@iiitkottayam.ac.in)
 
 </div>
 
