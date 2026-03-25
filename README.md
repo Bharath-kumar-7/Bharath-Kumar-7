@@ -22,11 +22,9 @@
 class BharathKumar:
     def __init__(self):
         self.name      = "Badagala Bharath Kumar"
-        self.role      = "AI/ML Engineer & Full Stack Developer"
         self.university= "IIIT Kottayam — B.Tech CSE"
         self.focus     = ["Agentic AI", "RAG Systems", "Deep Learning", "MERN Stack"]
         self.currently = "Building LLM-powered apps with LangChain & LlamaIndex"
-        self.fun_fact  = "AIR 52,867 among 1.3M+ in JEE Mains 2024 🎯"
 ```
 
 ---
